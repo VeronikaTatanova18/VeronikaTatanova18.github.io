@@ -1,0 +1,62 @@
+body {
+    background-color: #FFFFFF;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+nav {
+    background-color: #336600;
+}
+main {
+    background-color: #FFFFFF;
+}
+h1 {
+    color: #333300;
+}
+h2 {
+    color: #333300;
+}
+h3 {
+    color: #333300;
+}
+h4 {
+    color: #333300;
+}
+h5 {
+    color: #333300;
+}
+h6 {
+    color: #333300;
+}
+h7 {
+    color: #333300;
+}
+h8 {
+    color: #333300;
+}
+li {
+    color: #00000;
+}
+li {
+    color: #000000;
+}
+li {
+    color: #000000;
+}
+li {
+    color: #00000;
+}
+li {
+    color: #000000;
+}
+li {
+    color: #000000;
+}
+li {
+    color: #000000;
+}
+li {
+    color: #000000;
+}
